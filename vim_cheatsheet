@@ -1,0 +1,15 @@
+Highlighting search results:
+:set hls	- enable
+:nohls		- disable
+%y			- yank all lines in file
+%y+			- yank all lines in file to clipboard
+D			- delete from cursor to the end of the current line
+:m 10		- сдвинуть строчку на 10 строк вниз
+:s/str1/str2/g - заменить str1 на str2 в текущей строке
+%			- jump to matching bracket
+C-w C-r		- swap 2 split windows
+gg			- go to start of file
+Cb			- change before
+
+#	NERDTree
+c + ww - toggle NERDTree/file in vim

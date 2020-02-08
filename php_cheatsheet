@@ -1,0 +1,2 @@
+#	Check if function is in PHP standard library
+Php --rf func_name
